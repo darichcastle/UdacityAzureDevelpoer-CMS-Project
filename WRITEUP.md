@@ -18,8 +18,7 @@ Azure VM
 The B-series of Azure VM is as follows 
 Instance		Cores		    Ram		        Storage 		Pay as you go
 B1s			    1		        1GB		        4GB			    $0.0104/hour
-
-From the above information, we see that 
+ 
 
 
 
